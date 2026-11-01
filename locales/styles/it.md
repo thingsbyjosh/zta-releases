@@ -131,7 +131,7 @@ entra nel `max_len`, l'ordine di sacrificio è:
 7. **`calib_epic_body`** — EN `Listen. A {{class}} series is touring {{country}} this
    week... Don't waste it.`
    IT: **`Ascolta. Questa settimana una serie {{class}} fa tappa in {{country}}, e hanno
-   aperto la griglia a piloti senza galloni. Occasioni così non si ripetono: uno
+   aperto la griglia a piloti tutti da scoprire. Occasioni così non si ripetono: uno
    schieramento pieno di professionisti, un weekend per dimostrare di che pasta sei
    fatto. Corri questa e nella tua carriera ci sarà un prima e un dopo. Non sprecarla.`**
    "Grid" tradotto in "griglia" (regola §2). "Di che pasta sei fatto" è l'idioma vero, non
